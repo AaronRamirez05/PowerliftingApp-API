@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerLifter", "PowerLifter.csproj", "{CE71091C-B074-4FD0-BF92-76A70F3E7EFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Powerlifting.Service", "..\Powerlifting.Service\Powerlifting.Service.csproj", "{0D240E78-FFE4-47E6-969F-9113957DFF70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE71091C-B074-4FD0-BF92-76A70F3E7EFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE71091C-B074-4FD0-BF92-76A70F3E7EFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE71091C-B074-4FD0-BF92-76A70F3E7EFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE71091C-B074-4FD0-BF92-76A70F3E7EFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D240E78-FFE4-47E6-969F-9113957DFF70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D240E78-FFE4-47E6-969F-9113957DFF70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D240E78-FFE4-47E6-969F-9113957DFF70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D240E78-FFE4-47E6-969F-9113957DFF70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B1CE304-3F34-4191-9DA7-11B418289D81}
+	EndGlobalSection
+EndGlobal

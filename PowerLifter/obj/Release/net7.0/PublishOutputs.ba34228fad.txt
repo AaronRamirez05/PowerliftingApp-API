@@ -1,0 +1,16 @@
+A:\PowerLifting\PowerLifter\obj\Release\net7.0\PubTmp\Out\PowerLifter.exe
+A:\PowerLifting\PowerLifter\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+A:\PowerLifting\PowerLifter\obj\Release\net7.0\PubTmp\Out\appsettings.json
+A:\PowerLifting\PowerLifter\obj\Release\net7.0\PubTmp\Out\PowerLifter.dll
+A:\PowerLifting\PowerLifter\obj\Release\net7.0\PubTmp\Out\PowerLifter.deps.json
+A:\PowerLifting\PowerLifter\obj\Release\net7.0\PubTmp\Out\PowerLifter.runtimeconfig.json
+A:\PowerLifting\PowerLifter\obj\Release\net7.0\PubTmp\Out\PowerLifter.pdb
+A:\PowerLifting\PowerLifter\obj\Release\net7.0\PubTmp\Out\Dapper.dll
+A:\PowerLifting\PowerLifter\obj\Release\net7.0\PubTmp\Out\System.Data.SqlClient.dll
+A:\PowerLifting\PowerLifter\obj\Release\net7.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+A:\PowerLifting\PowerLifter\obj\Release\net7.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+A:\PowerLifting\PowerLifter\obj\Release\net7.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+A:\PowerLifting\PowerLifter\obj\Release\net7.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+A:\PowerLifting\PowerLifter\obj\Release\net7.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+A:\PowerLifting\PowerLifter\obj\Release\net7.0\PubTmp\Out\Powerlifting.Service.dll
+A:\PowerLifting\PowerLifter\obj\Release\net7.0\PubTmp\Out\Powerlifting.Service.pdb

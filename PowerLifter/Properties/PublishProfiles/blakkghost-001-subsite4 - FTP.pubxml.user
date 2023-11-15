@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <_PublishTargetUrl>ftp://win5002.site4now.net:21/api</_PublishTargetUrl>
+    <History>True|2023-11-15T06:08:55.6857704Z;False|2023-11-15T00:08:34.5336268-06:00;True|2023-11-15T00:03:02.6930202-06:00;False|2023-11-15T00:02:41.7787494-06:00;False|2023-11-15T00:02:33.4584622-06:00;True|2023-11-14T23:52:18.3906448-06:00;False|2023-11-14T23:51:43.8110823-06:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>10/15/2023 19:59:46</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>10/15/2023 20:05:40</publishTime>
+    </File>
+    <File Include="Dapper.dll">
+      <publishTime>10/13/2023 01:09:36</publishTime>
+    </File>
+    <File Include="PowerLifter.deps.json">
+      <publishTime>11/15/2023 00:08:40</publishTime>
+    </File>
+    <File Include="PowerLifter.dll">
+      <publishTime>11/15/2023 00:08:40</publishTime>
+    </File>
+    <File Include="PowerLifter.exe">
+      <publishTime>11/15/2023 00:08:40</publishTime>
+    </File>
+    <File Include="PowerLifter.pdb">
+      <publishTime>11/15/2023 00:08:40</publishTime>
+    </File>
+    <File Include="PowerLifter.runtimeconfig.json">
+      <publishTime>11/14/2023 23:51:10</publishTime>
+    </File>
+    <File Include="Powerlifting.Service.dll">
+      <publishTime>11/15/2023 00:02:13</publishTime>
+    </File>
+    <File Include="Powerlifting.Service.pdb">
+      <publishTime>11/15/2023 00:02:13</publishTime>
+    </File>
+    <File Include="runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll">
+      <publishTime>10/17/2022 18:26:02</publishTime>
+    </File>
+    <File Include="runtimes/win-arm64/native/sni.dll">
+      <publishTime>10/25/2023 21:40:56</publishTime>
+    </File>
+    <File Include="runtimes/win-x64/native/sni.dll">
+      <publishTime>10/25/2023 21:40:56</publishTime>
+    </File>
+    <File Include="runtimes/win-x86/native/sni.dll">
+      <publishTime>10/25/2023 21:40:56</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll">
+      <publishTime>10/17/2022 18:26:08</publishTime>
+    </File>
+    <File Include="System.Data.SqlClient.dll">
+      <publishTime>10/17/2022 18:16:04</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>11/15/2023 00:08:44</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,12 @@
+A:\PowerLifting\Powerlifting.Service\bin\Debug\net7.0\Powerlifting.Service.deps.json
+A:\PowerLifting\Powerlifting.Service\bin\Debug\net7.0\Powerlifting.Service.dll
+A:\PowerLifting\Powerlifting.Service\bin\Debug\net7.0\Powerlifting.Service.pdb
+A:\PowerLifting\Powerlifting.Service\obj\Debug\net7.0\Powerlifting.Service.csproj.AssemblyReference.cache
+A:\PowerLifting\Powerlifting.Service\obj\Debug\net7.0\Powerlifting.Service.GeneratedMSBuildEditorConfig.editorconfig
+A:\PowerLifting\Powerlifting.Service\obj\Debug\net7.0\Powerlifting.Service.AssemblyInfoInputs.cache
+A:\PowerLifting\Powerlifting.Service\obj\Debug\net7.0\Powerlifting.Service.AssemblyInfo.cs
+A:\PowerLifting\Powerlifting.Service\obj\Debug\net7.0\Powerlifting.Service.csproj.CoreCompileInputs.cache
+A:\PowerLifting\Powerlifting.Service\obj\Debug\net7.0\Powerlifting.Service.dll
+A:\PowerLifting\Powerlifting.Service\obj\Debug\net7.0\refint\Powerlifting.Service.dll
+A:\PowerLifting\Powerlifting.Service\obj\Debug\net7.0\Powerlifting.Service.pdb
+A:\PowerLifting\Powerlifting.Service\obj\Debug\net7.0\ref\Powerlifting.Service.dll
