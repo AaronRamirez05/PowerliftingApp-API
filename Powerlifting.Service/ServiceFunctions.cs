@@ -24,7 +24,7 @@ namespace Powerlifting.Service
             return _db.LoadData<UserXProgramId, dynamic>(sql, new { });
 
         }
-
+ 
         public Task<List<ProgramDTO>> GetSpecificProgramId(int ProgramId)
         {
             string sql = "SELECT [ProgramID],[ProgramName],[WorkoutID] FROM [db_a94b6f_powerlift].[dbo].[Programs] WHERE ProgramID = '" + ProgramId + "' ";

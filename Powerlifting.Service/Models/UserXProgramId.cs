@@ -9,7 +9,7 @@ namespace Powerlifting.Service.Models
     public class UserXProgramId
     {
 
-        public Guid UserId { get; set; }
+        public string UserId { get; set; }
         public int ProgramId { get; set; }
 
     }
