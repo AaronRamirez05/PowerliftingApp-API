@@ -18,9 +18,9 @@ namespace Powerlifting.Service
 
         }
 
-        public Task<List<UserXProgramId>> GetSpecificUserProgram(string UserId)
+        public Task<List<UserXProgramId>> GetSpecificUserProgram(string UserId)    //Using this for now
         {
-            string sql = "SELECT [ProgramId],[UserId] FROM [db_a94b6f_powerlift].[dbo].[UserXProgramId] where UserId= '" + UserId + "' ";
+            string sql = "SELECT [ProgramId],[UserId],[Name] FROM [db_a94b6f_powerlift].[dbo].[UserXProgramId] where UserId= '" + UserId + "' ";
             return _db.LoadData<UserXProgramId, dynamic>(sql, new { });
 
         }
@@ -32,9 +32,9 @@ namespace Powerlifting.Service
 
         }
 
-        public Task InsertUserandProgram(UserXProgramId request)
+        public Task InsertUserandProgram(UserXProgramId request)                //Using this for now 
         {
-            string sql = @"INSERT INTO [dbo].[UserXProgramId] ([UserId]) Values (@UserId)";
+            string sql = @"INSERT INTO [dbo].[UserXProgramId] ([UserId],[Name]) Values (@UserId,@Name)";
             return _db.SaveData(sql, request);
         }
     }
