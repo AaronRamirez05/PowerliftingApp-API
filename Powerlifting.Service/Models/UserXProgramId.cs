@@ -8,7 +8,7 @@ namespace Powerlifting.Service.Models
 {
     public class UserXProgramId
     {
-
+        public string Name { get; set; }
         public string UserId { get; set; }
         public int ProgramId { get; set; }
 

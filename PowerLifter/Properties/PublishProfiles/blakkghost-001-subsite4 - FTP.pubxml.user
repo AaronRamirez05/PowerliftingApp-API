@@ -8,39 +8,39 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <TimeStampOfAssociatedLegacyPublishXmlFile />
     <EncryptedPassword />
     <_PublishTargetUrl>ftp://win5002.site4now.net:21/api</_PublishTargetUrl>
-    <History>True|2023-11-15T07:23:09.6234394Z;False|2023-11-15T01:22:44.0274521-06:00;True|2023-11-15T00:08:55.6857704-06:00;False|2023-11-15T00:08:34.5336268-06:00;True|2023-11-15T00:03:02.6930202-06:00;False|2023-11-15T00:02:41.7787494-06:00;False|2023-11-15T00:02:33.4584622-06:00;True|2023-11-14T23:52:18.3906448-06:00;False|2023-11-14T23:51:43.8110823-06:00;</History>
+    <History>True|2023-11-20T01:58:34.8107802Z;True|2023-11-15T01:23:09.6234394-06:00;False|2023-11-15T01:22:44.0274521-06:00;True|2023-11-15T00:08:55.6857704-06:00;False|2023-11-15T00:08:34.5336268-06:00;True|2023-11-15T00:03:02.6930202-06:00;False|2023-11-15T00:02:41.7787494-06:00;False|2023-11-15T00:02:33.4584622-06:00;True|2023-11-14T23:52:18.3906448-06:00;False|2023-11-14T23:51:43.8110823-06:00;</History>
     <LastFailureDetails />
   </PropertyGroup>
   <ItemGroup>
     <File Include="appsettings.Development.json">
-      <publishTime>11/15/2023 00:23:52</publishTime>
+      <publishTime>11/15/2023 23:28:08</publishTime>
     </File>
     <File Include="appsettings.json">
-      <publishTime>11/15/2023 00:23:52</publishTime>
+      <publishTime>11/15/2023 23:28:08</publishTime>
     </File>
     <File Include="Dapper.dll">
       <publishTime>10/13/2023 01:09:36</publishTime>
     </File>
     <File Include="PowerLifter.deps.json">
-      <publishTime>11/15/2023 01:22:54</publishTime>
+      <publishTime>11/19/2023 19:58:10</publishTime>
     </File>
     <File Include="PowerLifter.dll">
-      <publishTime>11/15/2023 01:22:54</publishTime>
+      <publishTime>11/19/2023 19:58:10</publishTime>
     </File>
     <File Include="PowerLifter.exe">
-      <publishTime>11/15/2023 01:22:54</publishTime>
+      <publishTime>11/19/2023 19:58:10</publishTime>
     </File>
     <File Include="PowerLifter.pdb">
-      <publishTime>11/15/2023 01:22:54</publishTime>
+      <publishTime>11/19/2023 19:58:10</publishTime>
     </File>
     <File Include="PowerLifter.runtimeconfig.json">
-      <publishTime>11/15/2023 01:22:38</publishTime>
+      <publishTime>11/19/2023 19:58:10</publishTime>
     </File>
     <File Include="Powerlifting.Service.dll">
-      <publishTime>11/15/2023 01:22:35</publishTime>
+      <publishTime>11/19/2023 19:58:08</publishTime>
     </File>
     <File Include="Powerlifting.Service.pdb">
-      <publishTime>11/15/2023 01:22:35</publishTime>
+      <publishTime>11/19/2023 19:58:08</publishTime>
     </File>
     <File Include="runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll">
       <publishTime>10/17/2022 18:26:02</publishTime>
@@ -61,7 +61,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/17/2022 18:16:04</publishTime>
     </File>
     <File Include="web.config">
-      <publishTime>11/15/2023 01:22:54</publishTime>
+      <publishTime>11/19/2023 19:58:18</publishTime>
     </File>
   </ItemGroup>
 </Project>
