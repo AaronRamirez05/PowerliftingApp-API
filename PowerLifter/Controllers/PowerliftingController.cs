@@ -45,6 +45,19 @@ namespace PowerLifter.Controllers
 
         }
 
+        [HttpGet("{userid}/{pname}/workouts")]
+        public async Task<IActionResult> GetUserWorkouts(string userid, string pname)
+        {
+            var userPrograms = await _service.GetSpecificUserWorkouts(userid,pname);
+            if (userPrograms == null)
+            {
+                return NotFound();
+            }
+            return Ok(userPrograms);
+
+
+        }
+
         [HttpPost("user/create")]
         public async Task<IActionResult> CreateProgram([FromBody] UserXProgramId request)
         {
@@ -55,6 +68,18 @@ namespace PowerLifter.Controllers
             }
             return Ok(true);
 
+
+        }
+
+        [HttpPost("user/createWorkout")]
+        public async Task<IActionResult> CreateWorkout([FromBody] WorkoutDetails request)
+        {
+            var userPrograms = _service.InsertWorkoutDetails(request);
+            if (userPrograms == null)
+            {
+                return NotFound();
+            }
+            return Ok(true);
 
         }
 
