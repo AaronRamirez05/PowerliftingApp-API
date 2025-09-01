@@ -46,3 +46,16 @@ C:\Users\Aaron\Desktop\PowerliftingApp-API\Powerlifting.Service\obj\Release\net7
 C:\Users\Aaron\Desktop\PowerliftingApp-API\Powerlifting.Service\obj\Release\net7.0\refint\Powerlifting.Service.dll
 C:\Users\Aaron\Desktop\PowerliftingApp-API\Powerlifting.Service\obj\Release\net7.0\Powerlifting.Service.pdb
 C:\Users\Aaron\Desktop\PowerliftingApp-API\Powerlifting.Service\obj\Release\net7.0\ref\Powerlifting.Service.dll
+C:\Users\Aaron\Documents\Desktop folder\Desktop folder 2.0\PowerliftingApp-API\Powerlifting.Service\bin\Release\net7.0\Powerlifting.Service.deps.json
+C:\Users\Aaron\Documents\Desktop folder\Desktop folder 2.0\PowerliftingApp-API\Powerlifting.Service\bin\Release\net7.0\Powerlifting.Service.dll
+C:\Users\Aaron\Documents\Desktop folder\Desktop folder 2.0\PowerliftingApp-API\Powerlifting.Service\bin\Release\net7.0\Powerlifting.Service.pdb
+C:\Users\Aaron\Documents\Desktop folder\Desktop folder 2.0\PowerliftingApp-API\Powerlifting.Service\obj\Release\net7.0\Powerlifting.Service.csproj.AssemblyReference.cache
+C:\Users\Aaron\Documents\Desktop folder\Desktop folder 2.0\PowerliftingApp-API\Powerlifting.Service\obj\Release\net7.0\Powerlifting.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaron\Documents\Desktop folder\Desktop folder 2.0\PowerliftingApp-API\Powerlifting.Service\obj\Release\net7.0\Powerlifting.Service.AssemblyInfoInputs.cache
+C:\Users\Aaron\Documents\Desktop folder\Desktop folder 2.0\PowerliftingApp-API\Powerlifting.Service\obj\Release\net7.0\Powerlifting.Service.AssemblyInfo.cs
+C:\Users\Aaron\Documents\Desktop folder\Desktop folder 2.0\PowerliftingApp-API\Powerlifting.Service\obj\Release\net7.0\Powerlifting.Service.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\Documents\Desktop folder\Desktop folder 2.0\PowerliftingApp-API\Powerlifting.Service\obj\Release\net7.0\Powerlifting.Service.sourcelink.json
+C:\Users\Aaron\Documents\Desktop folder\Desktop folder 2.0\PowerliftingApp-API\Powerlifting.Service\obj\Release\net7.0\Powerlifting.Service.dll
+C:\Users\Aaron\Documents\Desktop folder\Desktop folder 2.0\PowerliftingApp-API\Powerlifting.Service\obj\Release\net7.0\refint\Powerlifting.Service.dll
+C:\Users\Aaron\Documents\Desktop folder\Desktop folder 2.0\PowerliftingApp-API\Powerlifting.Service\obj\Release\net7.0\Powerlifting.Service.pdb
+C:\Users\Aaron\Documents\Desktop folder\Desktop folder 2.0\PowerliftingApp-API\Powerlifting.Service\obj\Release\net7.0\ref\Powerlifting.Service.dll

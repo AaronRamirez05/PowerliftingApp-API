@@ -83,6 +83,18 @@ namespace PowerLifter.Controllers
 
         }
 
+        [HttpPost("user/deleteWorkout")]
+        public async Task<IActionResult> DeleteWorkout([FromBody] WorkoutDetails request)
+        {
+            var userPrograms = _service.InsertWorkoutDetails(request);
+            if (userPrograms == null)
+            {
+                return NotFound();
+            }
+            return Ok(true);
+
+        }
+
         //Populates specific program page
         [HttpGet("/user/userprograms/lesson/{lessonPlan}")]
         public async Task<IActionResult> GetUserProgramDetails(int lessonPlan)

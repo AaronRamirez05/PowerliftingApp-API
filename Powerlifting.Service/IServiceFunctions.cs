@@ -13,5 +13,9 @@ namespace Powerlifting.Service
         Task<List<ProgramDTO>> GetSpecificProgramId(int ProgramId);
 
         Task InsertUserandProgram(UserXProgramId request);
+
+        Task InsertWorkoutDetails(WorkoutDetails request);
+
+        Task<List<WorkoutDetails>> GetSpecificUserWorkouts(string UserId,string pname);
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Powerlifting.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75a3ed196bc22ca98869683691f6d5fd1c4aaf95")]
 [assembly: System.Reflection.AssemblyProductAttribute("Powerlifting.Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Powerlifting.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
