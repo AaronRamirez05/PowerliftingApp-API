@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PowerLifter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75a3ed196bc22ca98869683691f6d5fd1c4aaf95")]
 [assembly: System.Reflection.AssemblyProductAttribute("PowerLifter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PowerLifter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
