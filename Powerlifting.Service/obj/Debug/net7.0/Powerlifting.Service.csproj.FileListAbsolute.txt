@@ -18,6 +18,7 @@ C:\Users\Aaron\Desktop\PowerliftingApp-API\Powerlifting.Service\obj\Debug\net7.0
 C:\Users\Aaron\Desktop\PowerliftingApp-API\Powerlifting.Service\obj\Debug\net7.0\Powerlifting.Service.AssemblyInfoInputs.cache
 C:\Users\Aaron\Desktop\PowerliftingApp-API\Powerlifting.Service\obj\Debug\net7.0\Powerlifting.Service.AssemblyInfo.cs
 C:\Users\Aaron\Desktop\PowerliftingApp-API\Powerlifting.Service\obj\Debug\net7.0\Powerlifting.Service.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\Desktop\PowerliftingApp-API\Powerlifting.Service\obj\Debug\net7.0\Powerlifting.Service.sourcelink.json
 C:\Users\Aaron\Desktop\PowerliftingApp-API\Powerlifting.Service\obj\Debug\net7.0\Powerlifting.Service.dll
 C:\Users\Aaron\Desktop\PowerliftingApp-API\Powerlifting.Service\obj\Debug\net7.0\refint\Powerlifting.Service.dll
 C:\Users\Aaron\Desktop\PowerliftingApp-API\Powerlifting.Service\obj\Debug\net7.0\Powerlifting.Service.pdb
